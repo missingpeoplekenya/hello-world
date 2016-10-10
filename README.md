@@ -1,3 +1,3 @@
 # hello-world
 The first repository
-This is hwere you write about yourself
+This is where you write about yourself
